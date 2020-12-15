@@ -1,0 +1,36 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Andre Marques",
+      "location": "Brasil"
+    },
+    {
+      "id": 2,
+      "name": "Julio",
+      "location": "Canadá"
+    },
+    {
+      "id": "3",
+      "name": "dsfdsfsdf",
+      "location": "Brasil"
+    }
+  ],
+  "frutas": [
+    {
+      "id": 1,
+      "nome": "Banana",
+      "calorias": 150
+    },
+    {
+      "id": 1,
+      "nome": "Maçã",
+      "calorias": 50
+    },
+    {
+      "id": 1,
+      "nome": "Laranja",
+      "calorias": 95
+    }
+  ]
+}
