@@ -88,15 +88,7 @@ export default {
       this.dialog = true;
     },
     deleteItem(item) {
-      const index = this.frutas.indexOf(item);
-      confirm("Deseja apagar este item?") &&
-        axios
-          .delete("http://localhost:3000/frutas/" + item.id)
-          .then((response) => {
-            console.log(response.data);
-            this.frutas.splice(index, 1);
-          })
-          .catch((error) => console.log(error));
+      console.log(item.id)
     },
   },
   computed: {
