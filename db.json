@@ -15,5 +15,52 @@
       "name": "dsfdsfsdf",
       "location": "Brasil"
     }
+  ],
+  "frutas": [
+    {
+      "id": "1",
+      "nome": "Laranja",
+      "calorias": "157"
+    },
+    {
+      "id": "2",
+      "nome": "Manga",
+      "calorias": "250"
+    },
+    {
+      "id": "3",
+      "nome": "Morango",
+      "calorias": "20"
+    },
+    {
+      "id": "5",
+      "nome": "Pera",
+      "calorias": "55"
+    },
+    {
+      "id": "7",
+      "nome": "Uva",
+      "calorias": "33"
+    },
+    {
+      "id": "8",
+      "nome": "Tomate",
+      "calorias": "65"
+    },
+    {
+      "id": "9",
+      "nome": "Maçã",
+      "calorias": "77"
+    },
+    {
+      "id": "10",
+      "nome": "Kiwi",
+      "calorias": "113"
+    },
+    {
+      "id": "11",
+      "nome": "Tangerina",
+      "calorias": "68"
+    }
   ]
 }
